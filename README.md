@@ -8,8 +8,8 @@ Projeto desenvolvido para parte da avaliação do módulo de ADA sobre Power BI,
 - [Adriely Boller](https://www.linkedin.com/in/adrielyzambiasiboller/)
 - [Amanda Souza](https://www.linkedin.com/in/amanda-rs/)
 - [Lorrany Aquino](https://www.linkedin.com/in/lorrany-aquino/)
-- [Ricardo Mazeo](https://www.linkedin.com/in/ricardo-mazzeo/)
-- [Thiago Rocha](https://www.linkedin.com/in/thiagorochedo/)
+- [Ricardo Mazzeo](https://www.linkedin.com/in/ricardo-mazzeo/)
+- [Thiago Rochedo](https://www.linkedin.com/in/thiagorochedo/)
 
 # Descrição do Projeto:
 
